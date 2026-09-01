@@ -1,0 +1,6 @@
+Name: MUHAMMAD MIDLAJ K.A 
+Course: BCA
+College: DBI 
+Skill: Git and GitHub
+Git Level: Beginner 
+Favorite Command: git status  
